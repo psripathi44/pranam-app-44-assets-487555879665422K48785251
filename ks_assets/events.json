@@ -3,7 +3,7 @@
     {
       "event_id": "2025_10",
       "event_name": "October Octopus Challenge",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_01_classic_gold_circle.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_01_classic_gold_circle.png",
       "event_startdate": "2025-10-01",
       "event_enddate": "2025-10-31",
       "coin_reward": 500,
@@ -20,7 +20,7 @@
     {
       "event_id": "2025_11",
       "event_name": "November Nebula Quest",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_02_silver_star_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_02_silver_star_badge.png",
       "event_startdate": "2025-11-01",
       "event_enddate": "2025-11-30",
       "coin_reward": 500,
@@ -37,7 +37,7 @@
     {
       "event_id": "2025_12",
       "event_name": "December Diamond Duel",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_03_bronze_laurel_circle.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_03_bronze_laurel_circle.png",
       "event_startdate": "2025-12-01",
       "event_enddate": "2025-12-31",
       "coin_reward": 500,
@@ -54,7 +54,7 @@
     {
       "event_id": "2026_01",
       "event_name": "January Crystal Quest",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_04_crystal_globe_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_04_crystal_globe_badge.png",
       "event_startdate": "2026-01-01",
       "event_enddate": "2026-01-31",
       "coin_reward": 500,
@@ -71,7 +71,7 @@
     {
       "event_id": "2026_02",
       "event_name": "February Shield Challenge",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_05_shield_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_05_shield_circle_badge.png",
       "event_startdate": "2026-02-01",
       "event_enddate": "2026-02-28",
       "coin_reward": 500,
@@ -88,7 +88,7 @@
     {
       "event_id": "2026_03",
       "event_name": "March Eagle Soar",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_06_golden_eagle_circle.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_06_golden_eagle_circle.png",
       "event_startdate": "2026-03-01",
       "event_enddate": "2026-03-31",
       "coin_reward": 500,
@@ -105,7 +105,7 @@
     {
       "event_id": "2026_04",
       "event_name": "April Diamond Discovery",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_07_diamond_dot_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_07_diamond_dot_badge.png",
       "event_startdate": "2026-04-01",
       "event_enddate": "2026-04-30",
       "coin_reward": 500,
@@ -122,7 +122,7 @@
     {
       "event_id": "2026_05",
       "event_name": "May Marble Mastery",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_08_marble_circle_trophy.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_08_marble_circle_trophy.png",
       "event_startdate": "2026-05-01",
       "event_enddate": "2026-05-31",
       "coin_reward": 500,
@@ -139,7 +139,7 @@
     {
       "event_id": "2026_06",
       "event_name": "June Silver Torch",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_09_silver_torch_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_09_silver_torch_badge.png",
       "event_startdate": "2026-06-01",
       "event_enddate": "2026-06-30",
       "coin_reward": 500,
@@ -156,7 +156,7 @@
     {
       "event_id": "2026_07",
       "event_name": "July Wood Grain Wonder",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_10_wood_grain_circle.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_10_wood_grain_circle.png",
       "event_startdate": "2026-07-01",
       "event_enddate": "2026-07-31",
       "coin_reward": 500,
@@ -173,7 +173,7 @@
     {
       "event_id": "2026_08",
       "event_name": "August Heart Challenge",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_11_heart_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_11_heart_circle_badge.png",
       "event_startdate": "2026-08-01",
       "event_enddate": "2026-08-31",
       "coin_reward": 500,
@@ -190,7 +190,7 @@
     {
       "event_id": "2026_09",
       "event_name": "September Crown Quest",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_12_crown_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_12_crown_circle_badge.png",
       "event_startdate": "2026-09-01",
       "event_enddate": "2026-09-30",
       "coin_reward": 500,
@@ -207,7 +207,7 @@
     {
       "event_id": "2026_10",
       "event_name": "October Ceramic Flower Festival",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_13_ceramic_flower_circle.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_13_ceramic_flower_circle.png",
       "event_startdate": "2026-10-01",
       "event_enddate": "2026-10-31",
       "coin_reward": 500,
@@ -224,7 +224,7 @@
     {
       "event_id": "2026_11",
       "event_name": "November Holographic Horizon",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_14_holographic_circle.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_14_holographic_circle.png",
       "event_startdate": "2026-11-01",
       "event_enddate": "2026-11-30",
       "coin_reward": 500,
@@ -241,7 +241,7 @@
     {
       "event_id": "2026_12",
       "event_name": "December Iron Fortress",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_15_iron_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_15_iron_circle_badge.png",
       "event_startdate": "2026-12-01",
       "event_enddate": "2026-12-31",
       "coin_reward": 500,
@@ -258,7 +258,7 @@
     {
       "event_id": "2027_01",
       "event_name": "January Prism Power",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_16_prism_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_16_prism_circle_badge.png",
       "event_startdate": "2027-01-01",
       "event_enddate": "2027-01-31",
       "coin_reward": 500,
@@ -275,7 +275,7 @@
     {
       "event_id": "2027_02",
       "event_name": "February Lion's Roar",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_17_lion_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_17_lion_circle_badge.png",
       "event_startdate": "2027-02-01",
       "event_enddate": "2027-02-28",
       "coin_reward": 500,
@@ -292,7 +292,7 @@
     {
       "event_id": "2027_03",
       "event_name": "March Bamboo Zen",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_18_bamboo_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_18_bamboo_circle_badge.png",
       "event_startdate": "2027-03-01",
       "event_enddate": "2027-03-31",
       "coin_reward": 500,
@@ -309,7 +309,7 @@
     {
       "event_id": "2027_04",
       "event_name": "April Art Deco Dreams",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_19_art_deco_circle.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_19_art_deco_circle.png",
       "event_startdate": "2027-04-01",
       "event_enddate": "2027-04-30",
       "coin_reward": 500,
@@ -326,7 +326,7 @@
     {
       "event_id": "2027_05",
       "event_name": "May Pearl Perfection",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_20_pearl_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_20_pearl_circle_badge.png",
       "event_startdate": "2027-05-01",
       "event_enddate": "2027-05-31",
       "coin_reward": 500,
@@ -343,7 +343,7 @@
     {
       "event_id": "2027_06",
       "event_name": "June Mountain Majesty",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_21_mountain_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_21_mountain_circle_badge.png",
       "event_startdate": "2027-06-01",
       "event_enddate": "2027-06-30",
       "coin_reward": 500,
@@ -360,7 +360,7 @@
     {
       "event_id": "2027_07",
       "event_name": "July Leaf Legacy",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_22_leaf_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_22_leaf_circle_badge.png",
       "event_startdate": "2027-07-01",
       "event_enddate": "2027-07-31",
       "coin_reward": 500,
@@ -377,7 +377,7 @@
     {
       "event_id": "2027_08",
       "event_name": "August Glow Guardian",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_23_glow_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_23_glow_circle_badge.png",
       "event_startdate": "2027-08-01",
       "event_enddate": "2027-08-31",
       "coin_reward": 500,
@@ -394,7 +394,7 @@
     {
       "event_id": "2027_09",
       "event_name": "September Gear Genesis",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_24_gear_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_24_gear_circle_badge.png",
       "event_startdate": "2027-09-01",
       "event_enddate": "2027-09-30",
       "coin_reward": 500,
@@ -411,7 +411,7 @@
     {
       "event_id": "2027_10",
       "event_name": "October Bird's Flight",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_25_bird_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_25_bird_circle_badge.png",
       "event_startdate": "2027-10-01",
       "event_enddate": "2027-10-31",
       "coin_reward": 500,
@@ -428,7 +428,7 @@
     {
       "event_id": "2027_11",
       "event_name": "November Rainbow Ridge",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_26_rainbow_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_26_rainbow_circle_badge.png",
       "event_startdate": "2027-11-01",
       "event_enddate": "2027-11-30",
       "coin_reward": 500,
@@ -445,7 +445,7 @@
     {
       "event_id": "2027_12",
       "event_name": "December Crystal Octagon",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_27_crystal_octagon_circle.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_27_crystal_octagon_circle.png",
       "event_startdate": "2027-12-01",
       "event_enddate": "2027-12-31",
       "coin_reward": 500,
@@ -462,7 +462,7 @@
     {
       "event_id": "2028_01",
       "event_name": "January Sunburst Saga",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_28_sunburst_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_28_sunburst_circle_badge.png",
       "event_startdate": "2028-01-01",
       "event_enddate": "2028-01-31",
       "coin_reward": 500,
@@ -479,7 +479,7 @@
     {
       "event_id": "2028_02",
       "event_name": "February Leather Legends",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_29_leather_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_29_leather_circle_badge.png",
       "event_startdate": "2028-02-01",
       "event_enddate": "2028-02-29",
       "coin_reward": 500,
@@ -496,7 +496,7 @@
     {
       "event_id": "2028_03",
       "event_name": "March Wave Warrior",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_30_wave_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_30_wave_circle_badge.png",
       "event_startdate": "2028-03-01",
       "event_enddate": "2028-03-31",
       "coin_reward": 500,
@@ -513,7 +513,7 @@
     {
       "event_id": "2028_04",
       "event_name": "April Stone Sentinel",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_31_stone_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_31_stone_circle_badge.png",
       "event_startdate": "2028-04-01",
       "event_enddate": "2028-04-30",
       "coin_reward": 500,
@@ -530,7 +530,7 @@
     {
       "event_id": "2028_05",
       "event_name": "May Swirl Symphony",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_32_swirl_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_32_swirl_circle_badge.png",
       "event_startdate": "2028-05-01",
       "event_enddate": "2028-05-31",
       "coin_reward": 500,
@@ -547,7 +547,7 @@
     {
       "event_id": "2028_06",
       "event_name": "June Rose Romance",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_33_rose_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_33_rose_circle_badge.png",
       "event_startdate": "2028-06-01",
       "event_enddate": "2028-06-30",
       "coin_reward": 500,
@@ -564,7 +564,7 @@
     {
       "event_id": "2028_07",
       "event_name": "July Feather Freedom",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_34_feather_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_34_feather_circle_badge.png",
       "event_startdate": "2028-07-01",
       "event_enddate": "2028-07-31",
       "coin_reward": 500,
@@ -581,7 +581,7 @@
     {
       "event_id": "2028_08",
       "event_name": "August Jewel Journey",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_35_jewel_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_35_jewel_circle_badge.png",
       "event_startdate": "2028-08-01",
       "event_enddate": "2028-08-31",
       "coin_reward": 500,
@@ -598,7 +598,7 @@
     {
       "event_id": "2028_09",
       "event_name": "September Sun Seeker",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_36_sun_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_36_sun_circle_badge.png",
       "event_startdate": "2028-09-01",
       "event_enddate": "2028-09-30",
       "coin_reward": 500,
@@ -615,7 +615,7 @@
     {
       "event_id": "2028_10",
       "event_name": "October Blue Horizon",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_37_blue_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_37_blue_circle_badge.png",
       "event_startdate": "2028-10-01",
       "event_enddate": "2028-10-31",
       "coin_reward": 500,
@@ -632,7 +632,7 @@
     {
       "event_id": "2028_11",
       "event_name": "November Spiral Secrets",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_38_spiral_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_38_spiral_circle_badge.png",
       "event_startdate": "2028-11-01",
       "event_enddate": "2028-11-30",
       "coin_reward": 500,
@@ -649,7 +649,7 @@
     {
       "event_id": "2028_12",
       "event_name": "December Globe Guardian",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_39_globe_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_39_globe_circle_badge.png",
       "event_startdate": "2028-12-01",
       "event_enddate": "2028-12-31",
       "coin_reward": 500,
@@ -666,7 +666,7 @@
     {
       "event_id": "2029_01",
       "event_name": "January Bridge Builder",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_40_bridge_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_40_bridge_circle_badge.png",
       "event_startdate": "2029-01-01",
       "event_enddate": "2029-01-31",
       "coin_reward": 500,
@@ -683,7 +683,7 @@
     {
       "event_id": "2029_02",
       "event_name": "February Pyramid Power",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_41_pyramid_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_41_pyramid_circle_badge.png",
       "event_startdate": "2029-02-01",
       "event_enddate": "2029-02-28",
       "coin_reward": 500,
@@ -700,7 +700,7 @@
     {
       "event_id": "2029_03",
       "event_name": "March Lace Luxury",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_42_lace_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_42_lace_circle_badge.png",
       "event_startdate": "2029-03-01",
       "event_enddate": "2029-03-31",
       "coin_reward": 500,
@@ -717,7 +717,7 @@
     {
       "event_id": "2029_04",
       "event_name": "April Gear Wheel Wonder",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_43_gear_wheel_circle.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_43_gear_wheel_circle.png",
       "event_startdate": "2029-04-01",
       "event_enddate": "2029-04-30",
       "coin_reward": 500,
@@ -734,7 +734,7 @@
     {
       "event_id": "2029_05",
       "event_name": "May Minimal Mastery",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_44_minimal_line_circle.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_44_minimal_line_circle.png",
       "event_startdate": "2029-05-01",
       "event_enddate": "2029-05-31",
       "coin_reward": 500,
@@ -751,7 +751,7 @@
     {
       "event_id": "2029_06",
       "event_name": "June Shell Sanctuary",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_45_shell_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_45_shell_circle_badge.png",
       "event_startdate": "2029-06-01",
       "event_enddate": "2029-06-30",
       "coin_reward": 500,
@@ -768,7 +768,7 @@
     {
       "event_id": "2029_07",
       "event_name": "July Mosaic Marvel",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_46_mosaic_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_46_mosaic_circle_badge.png",
       "event_startdate": "2029-07-01",
       "event_enddate": "2029-07-31",
       "coin_reward": 500,
@@ -785,7 +785,7 @@
     {
       "event_id": "2029_08",
       "event_name": "August Frost Fantasy",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_47_frost_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_47_frost_circle_badge.png",
       "event_startdate": "2029-08-01",
       "event_enddate": "2029-08-31",
       "coin_reward": 500,
@@ -802,7 +802,7 @@
     {
       "event_id": "2029_09",
       "event_name": "September Compass Quest",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_48_compass_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_48_compass_circle_badge.png",
       "event_startdate": "2029-09-01",
       "event_enddate": "2029-09-30",
       "coin_reward": 500,
@@ -819,7 +819,7 @@
     {
       "event_id": "2029_10",
       "event_name": "October Book of Wisdom",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_49_book_circle_badge.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_49_book_circle_badge.png",
       "event_startdate": "2029-10-01",
       "event_enddate": "2029-10-31",
       "coin_reward": 500,
@@ -836,7 +836,7 @@
     {
       "event_id": "2029_11",
       "event_name": "November Music Maestro",
-      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_50_music_note_circle.svg",
+      "event_trophy": "https://cdn.jsdelivr.net/gh/psripathi44/pranam-app-44-assets-487555879665422K48785251@main/ks_assets/event_badges/medal_50_music_note_circle.png",
       "event_startdate": "2029-11-01",
       "event_enddate": "2029-11-30",
       "coin_reward": 500,
