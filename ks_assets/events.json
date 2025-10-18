@@ -10,11 +10,11 @@
       "trophy_name": "Classic Gold Medal",
       "description": "Complete all 100 puzzles to earn the Classic Gold Medal!",
       "difficulty_distribution": {
-        "easy": 2,
-        "medium": 2,
-        "hard": 2,
-        "expert": 2,
-        "nightmare": 2
+        "easy": 22,
+        "medium": 32,
+        "hard": 28,
+        "expert": 17,
+        "nightmare": 5
       }
     },
     {
